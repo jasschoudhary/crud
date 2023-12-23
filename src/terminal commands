@@ -1,0 +1,2 @@
+npx json-server src/Backend/db.json --watch port 8000
+npm start
